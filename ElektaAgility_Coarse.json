@@ -1,0 +1,24 @@
+{
+  "TreatmentMachineName": "Elekta Agility Coarse",
+  "Author": "Fernando Hueso-González",
+  "Date":"2023",
+  "$schema": "https://raw.githubusercontent.com/???/???-schema.json#",
+  "Part": [
+    {
+      "Type": "Gantry",
+      "Name": "Gantry",
+      "FilePath": "ElektaAgility_Coarse/RotatingHeads.stl",
+      "FileToRASTransformMatrix": [ [1, 0, 0, 0], [0, 0, -1, 0], [0, -1, 0, 0], [0, 0, 0, 1] ],
+      "Color": [244, 244, 244],
+      "State": "Active"
+    },
+    {
+      "Type": "TableTop",
+      "Name": "Table top",
+      "FilePath": "ElektaAgility_Coarse/Hexapod.stl",
+      "FileToRASTransformMatrix": [ [1, 0, 0, 0], [0, 0, -1, 0], [0, -1, 0, 0], [0, 0, 0, 1] ],
+      "Color": [0, 0, 0],
+      "State": "Active"
+    }
+  ]
+}
