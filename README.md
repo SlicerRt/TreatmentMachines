@@ -8,4 +8,4 @@ This repository was partly supported by Conselleria de Educación, Investigació
 - Csaba Pinter (Queen's, Ebatinca)
 - Vinith Suriyakumar (Queen's)
 - Eduardo Meilán Bermejo
-- Fernando Hueso-González (CSIC - Universitat de València)
+- Fernando Hueso-González (IFIC, CSIC - Universitat de València)
